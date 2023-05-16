@@ -1,0 +1,41 @@
+{
+  "keywordFileContentHash": "4157F6BDDECABCCFC191B98671463A8E",
+  "keywordClasses": [
+    {
+      "name": "com.gorest.Utils",
+      "keywordMethods": [
+        {
+          "name": "randomVariable",
+          "parameters": [
+            {
+              "name": "field",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "getToken",
+          "parameters": []
+        },
+        {
+          "name": "get",
+          "parameters": []
+        },
+        {
+          "name": "getDuplicateEmail",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

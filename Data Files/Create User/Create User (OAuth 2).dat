@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Create User (OAuth 2)</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>afd1fd8d-8bf8-4c7b-880b-f2ee6c48afaa</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>0 normal+male+with+status+active</data>
+   <data>1 normal+female+with+status+inactive</data>
+   <data>2 normal+male+with+status+inactive</data>
+   <data>3 normal+female+with+status+active</data>
+   <data>4 gender+is+not+male+nor+female</data>
+   <data>5 status+is+not+active+nor+inactive</data>
+   <data>6 invalid+email</data>
+   <data>7 duplicate+email</data>
+   <data>8 null+name</data>
+   <data>9 null+gender</data>
+   <data>10 null+email</data>
+   <data>11 null+status</data>
+   <data>12 invalid+auth%2Ftoken</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>case</name>
+      <size>13</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>description</name>
+      <size>13</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
