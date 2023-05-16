@@ -20,22 +20,26 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         },
         {
           "name": "getToken",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "get",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "getDuplicateEmail",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
